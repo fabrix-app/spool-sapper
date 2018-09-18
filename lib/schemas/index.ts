@@ -1,0 +1,1 @@
+export { sapperConfig } from './sapperConfig'
